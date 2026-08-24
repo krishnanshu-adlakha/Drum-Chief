@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158680635196",
+    "project_id": "drum-chief",
+    "storage_bucket": "drum-chief.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158680635196:android:235eb5fdd78f5b66e2b039",
+        "android_client_info": {
+          "package_name": "com.example.drum_chief"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlBnMXrW6MXKGwIUZfo2sm1D4hYZ_QKG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
